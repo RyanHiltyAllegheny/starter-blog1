@@ -1,10 +1,10 @@
-title: The Butler
-baseline: Your blogging assistant
-description: A ready to use static blog, powered by Cecil.
+title: Keg and Burg
+baseline: Your playlist operatives
+description: A ready to list of all playlists by Keg and Burg.
 baseurl: /
 canonicalurl: true
 keywords: [Cecil, Static Site Generator, SSG]
-author: Arnaud Ligny
+author: Ryan Hilty
 date:
   format: j F Y
   timezone: Europe/Paris
