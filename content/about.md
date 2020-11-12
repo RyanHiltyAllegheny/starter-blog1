@@ -1,6 +1,6 @@
 ---
 title: About the Boys
-date: 2020-11-
+date: 2020-11-11
 menu:
   main:
     weight: 999
