@@ -5,13 +5,13 @@ menu:
   main:
     weight: 999
 ---
-> Hot songs and playlists, powered by [Spotify](www.spotify.com)
+> Hot songs and playlists, powered by [Spotify](https://www.spotify.com/us/)
 
 ## Where did it all begin?
 
 ###  Birth of Keg and Burg
 
-If your goal is managing content quickly, and decide later where to deploy to it, use the following button to import the starter blog to Forestry CMS and start editing immediatelly!
+The passion and love for music comes deep from within. Two beauties of college students trying to share our favorite music with the world. We started at our school sharing our favorite music on our radio show 10 Below. After a short glow up of success we have created many playlists for you!!
 
 [![Import this project into Forestry](https://assets.forestry.io/import-to-forestryK.svg)](https://cecil.app/cms/forestry/import/)
 
