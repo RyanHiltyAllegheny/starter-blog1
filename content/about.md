@@ -1,15 +1,15 @@
 ---
-title: About
-date: 2019-07-09
+title: About the Boys
+date: 2020-11-
 menu:
   main:
     weight: 999
 ---
-> A ready to use static blog, powered by [Cecil](https://cecil.app).
+> Hot songs and playlists, powered by [Spotify](www.spotify.com)
 
-## How to use?
+## Where did it all begin?
 
-### Managing content with [Forestry](https://forestry.io)
+###  Birth of Keg and Burg
 
 If your goal is managing content quickly, and decide later where to deploy to it, use the following button to import the starter blog to Forestry CMS and start editing immediatelly!
 
