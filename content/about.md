@@ -5,7 +5,7 @@ menu:
   main:
     weight: 999
 ---
-> Hot songs and playlists, powered by <a href="http://www.spotify.com/us/"><img src ="../static/images/spotify.jpg" alt ="spotify.com" width="100" heigh="132"</a>
+> Hot songs and playlists, powered by <p><a href="http://www.spotify.com/us/"><img src ="../static/images/spotify.jpg" alt ="spotify.com" width="100" heigh="132"</a></p>
 
 ## Where did it all begin?
 
