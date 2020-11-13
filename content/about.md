@@ -5,7 +5,7 @@ menu:
   main:
     weight: 999
 ---
-> Hot songs and playlists, powered by [Spotify](https://www.spotify.com/us/)
+> Hot songs and playlists, powered by <a href="http://www.spotify.com/us/" target="_blank">Spotify</a>
 
 ## Where did it all begin?
 
@@ -14,6 +14,8 @@ menu:
 The passion and love for music comes deep from within. Two beauties of college students trying to share our favorite music with the world. We started at our school sharing our favorite music on our radio show 10 Below. After a short glow up of success we have created many playlists for you!!
 
 [![Import this project into Forestry](https://assets.forestry.io/import-to-forestryK.svg)](https://cecil.app/cms/forestry/import/)
+
+<a href="http://www.spotify.com/us/" target="_blank">Spotify</a>
 
 ### Deploy with [Netlify](https://www.netlify.com)
 
