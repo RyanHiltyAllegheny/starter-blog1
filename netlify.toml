@@ -10,7 +10,7 @@
   command = "chmod +x .netlify/build.sh && bash .netlify/build.sh preview"
 
 [template.environment]
-  CECIL_TITLE = "Blog's title"
+  CECIL_TITLE = "playlist title"
   CECIL_BASELINE = "Short description (~ 20 characters)"
   CECIL_DESCRIPTION = "Full description (~ 250 characters)"
   CECIL_AUTHOR = "Your name"

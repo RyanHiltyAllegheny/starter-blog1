@@ -1,11 +1,11 @@
 {
-  "name": "cecil/the-butler",
-  "description": "A ready to use static blog, powered by Cecil.",
+  "name": "10 BELOW w/ Keg and Burg",
+  "description": "The best songs, the best playlists",
   "license": "MIT",
   "type": "project",
   "authors": [
     {
-      "name": "Arnaud Ligny",
+      "name": "Keg and Burg",
       "email": "arnaud@ligny.fr",
       "homepage": "https://arnaudligny.fr",
       "role": "Developer"
