@@ -11,11 +11,11 @@ menu:
 
 ###  Birth of Keg and Burg
 
-Just two average college students with an interests in sharing our favorite songs and artists for you!! Keg and Burg started 
+Just two average college students with an interests in sharing our favorite songs and artists for you!! Keg and Burg started
 
-[![Import this project into Forestry](https://assets.forestry.io/import-to-forestryK.svg)](https://cecil.app/cms/forestry/import/)
+<iframe src="https://open.spotify.com/embed/playlist/32vz3oojrrruNtchJAvveo" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
 
-<p> <a href="http://www.spotify.com/us/"><img src ="../static/images/spotify.jpg" alt ="spotify.com" width="100" heigh="132"</a> </p>
+<p> <a href="http://www.spotify.com/us/"><img src ="../static/images/spotify.png" alt ="spotify.com" width="100" heigh="132"</a> </p>
 
 ### Deploy with [Netlify](https://www.netlify.com)
 
