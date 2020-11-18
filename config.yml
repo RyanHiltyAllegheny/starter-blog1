@@ -1,6 +1,6 @@
-title: Keg and Burg
+title: 10 BELOW
 baseline: Your playlist operatives
-description: A ready to list of all playlists by Keg and Burg.
+description: All of 10 BELOW best music
 baseurl: /
 canonicalurl: true
 keywords: [Cecil, Static Site Generator, SSG]
@@ -14,6 +14,6 @@ theme:
   - netlify-cms
 hyde:
   sidebar:
-    sticky: true # Content to the bottom of the sidebar
-  theme: 'cyan, white, grey' # red, orange, yellow, green, cyan, blue, magenta, brown or cecil
-  reverse: false # Reverse layout
+    sticky: false # Content to the bottom of the sidebar
+  theme: grey, white, black,  # red, orange, yellow, green, cyan, blue, magenta, brown or cecil
+  reverse: true # Reverse layout

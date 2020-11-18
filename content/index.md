@@ -11,4 +11,4 @@ title: Home
 ## New Albums -
 
 
-> A ready to use static blog, powered by [Cecil](https://cecil.app).
+> 10 BELOW with all your ear pleasuring needs! Powered by <a href="http://www.spotify.com/us/" target="_blank">Spotify</a>

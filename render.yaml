@@ -1,6 +1,6 @@
 services:
 - type: web
-  name: Keg and Burg
+  name: 10 BELOW
   env: static
   buildCommand: curl -LO https://cecil.app/cecil.phar && composer install && php cecil.phar build -v
   staticPublishPath: _site
